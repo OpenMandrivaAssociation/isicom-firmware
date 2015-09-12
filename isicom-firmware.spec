@@ -1,7 +1,7 @@
 Summary:	Multitech Intelligent Serial Internal (ISI) firmware
 Name:		isicom-firmware
 Version:	3.09
-Release:	1
+Release:	2
 License:	Distributable
 Group:		System/Kernel and hardware
 URL:		http://www.multitech.com/
