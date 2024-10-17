@@ -4,7 +4,7 @@ Version:	3.09
 Release:	2
 License:	Distributable
 Group:		System/Kernel and hardware
-URL:		http://www.multitech.com/
+URL:		https://www.multitech.com/
 Source0:	ftp://ftp.multitech.com/isi-cards/linux/l309_22x_24x.tar
 BuildArch:	noarch
 
